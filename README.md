@@ -2,4 +2,4 @@
 
 ####Download SuperCollider, a free and open-source programming language and IDE for music composition, [here](http://supercollider.github.io/download).
 
-####Written mostly over the course of five hours late one Saturday night in New York. 
+####Written mostly over the course of five hours on a Saturday night in New York. 
